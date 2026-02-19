@@ -1,6 +1,6 @@
 {
-  "version": "v20.40.45 (patches 1.13.0.mpp)",
-  "versionCode": 12,
-  "zipUrl": "https://github.com/janisslsm/morphe-magisk-module/releases/download/12/youtube-morphe-magisk-v20.40.45-all.zip",
+  "version": "v20.40.45 (patches 1.14.0.mpp)",
+  "versionCode": 13,
+  "zipUrl": "https://github.com/janisslsm/morphe-magisk-module/releases/download/13/youtube-morphe-magisk-v20.40.45-all.zip",
   "changelog": "https://raw.githubusercontent.com/janisslsm/morphe-magisk-module/update/build.md"
 }
